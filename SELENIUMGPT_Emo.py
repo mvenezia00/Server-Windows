@@ -1,14 +1,10 @@
 import time
 import  json
-import pandas as pd
-import numpy as np
 import subprocess
 import os
 import play
 from getaudiodev import getaudiodevice
-from client_API import get_risposta
-from client_API import clean_risposta
-from client_API import get_audio
+from client_API import *
 
 #05/04 simpleaudio in extensions/silero_tts/play.py. #modificato script silero per gestione nome output audio
 
