@@ -6,3 +6,6 @@ pyautogui
 sounddevice
 pysoundfile
 tensorflow
+pydub
+ffmpeg
+requests
